@@ -1,11 +1,13 @@
 <h5 data-importer="text" align="left">Hi 👋! My name is Abdulkhamid and I'm from Uzbekistan. Learning systems programming in C and C++. Aspiring low-level security engineer — building tools for cybersecurity</h6>
 
 ###
+
 <div data-importer="profile-views" align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=neyvur.neyvur&" />
 </div>
 
 ###
+
 <div data-importer="skills" align="center">
   <!-- Анимированная строка с целями -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Low-level+security+engineer+in+training;Building+tools+with+C%2FC%2B%2B;Secure+software+development;Linux+%7C+Docker+%7C+Systems" alt="Typing SVG" />
@@ -20,6 +22,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 ###
+<div data-importer="stats" align="center">
+  <!-- Детальная карта активности -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyvur&theme=dracula" height="150" alt="profile details" />
+  
+  <!-- Статистика: звезды, коммиты, issues, PR -->
+  <img src="https://github-readme-stats.vercel.app/api?username=neyvur&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="stats card" />
+  
+  <!-- Топ используемых языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyvur&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages" />
+</div>
+
 <br clear="both">
 
 <div data-importer="techs" align="center">
@@ -58,5 +71,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
-
 ###
