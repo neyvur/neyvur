@@ -1,6 +1,11 @@
 <h6 data-importer="text" align="left">Hi 👋! My name is Abdulkhamid and I'm from Uzbekistan. Learning systems programming in C and C++. Aspiring low-level security engineer — building tools for cybersecurity</h6>
 
 ###
+<div data-importer="profile-views" align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=neyvur.neyvur&" />
+</div>
+
+###
 
 <br clear="both">
 
@@ -10,13 +15,6 @@
 </div>
 
 ###
-
-<div data-importer="profile-views" align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=neyvur.neyvur&" />
-</div>
-
-###
-
 <br clear="both">
 
 <div data-importer="techs" align="center">
