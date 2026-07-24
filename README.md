@@ -1,4 +1,4 @@
-<h6 data-importer="text" align="left">Hi 👋! My name is Abdulkhamid and I'm from Uzbekistan. Learning systems programming in C and C++. Aspiring low-level security engineer — building tools for cybersecurity</h6>
+<h5 data-importer="text" align="left">Hi 👋! My name is Abdulkhamid and I'm from Uzbekistan. Learning systems programming in C and C++. Aspiring low-level security engineer — building tools for cybersecurity</h6>
 
 ###
 <div data-importer="profile-views" align="left">
@@ -6,12 +6,12 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <div data-importer="stats" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neyvur&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neyvur&theme=dracula" height="150" alt="languages graph" />
+  <!-- GitHub Trophy Case — витрина достижений -->
+  <img src="https://github-profile-trophy.vercel.app/?username=neyvur&theme=dracula&column=7&no-frame=true&margin-w=15" height="150" alt="trophy graph" />
+  
+  <!-- GitHub Profile Summary Card — уровень и скиллы -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyvur&theme=dracula" height="150" alt="profile details" />
 </div>
 
 ###
