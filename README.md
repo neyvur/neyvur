@@ -6,14 +6,19 @@
 </div>
 
 ###
-<div data-importer="stats" align="center">
-  <!-- GitHub Trophy Case — витрина достижений -->
-  <img src="https://github-profile-trophy.vercel.app/?username=neyvur&theme=dracula&column=7&no-frame=true&margin-w=15" height="150" alt="trophy graph" />
+<div data-importer="skills" align="center">
+  <!-- Анимированная строка с целями -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Low-level+security+engineer+in+training;Building+tools+with+C%2FC%2B%2B;Secure+software+development;Linux+%7C+Docker+%7C+Systems" alt="Typing SVG" />
   
-  <!-- GitHub Profile Summary Card — уровень и скиллы -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyvur&theme=dracula" height="150" alt="profile details" />
+  <!-- Навыки в виде цветных бейджей -->
+  <br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
 ###
 <br clear="both">
 
