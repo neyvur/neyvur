@@ -27,12 +27,12 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=neyvur.neyvur&"  />
 </div>
 
-<h3 data-importer="text" align="center">Heeyy 👋</h3>
+<h3 data-importer="text" align="center">Heeyy 👋</h2>
 
-<h4 data-importer="text" align="left">About Me</h4>
-<h6 data-importer="text" align="left">I'm Abdulkhamid from Uzbekistan <br><br>- I'm a student at Webster University in Tashkent<br>- 📚 I'm currently learning C, C++ and Python</h5>
+<h4 data-importer="text" align="left">About Me</h3>
+<h6 data-importer="text" align="left">- My name is Abdulkhamid from Uzbekistan <br><br>- I'm a student at Webster University in Tashkent<br>- 📚 I'm currently learning C, C++ and Python</h4>
 
-<h4 data-importer="text" align="left">🛠 Language and tools</h4>
+<h4 data-importer="text" align="left">🛠 Language and tools</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-<h4 data-importer="text" align="left">🔥   My Stats :</h4>
+<h4 data-importer="text" align="left">🔥   My Stats :</h3>
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=neyvur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
